@@ -1,1 +1,2 @@
-# CS490_RnD_Autumn2023
+# CS490 - RnD Project I (Autumn 2023)
+
