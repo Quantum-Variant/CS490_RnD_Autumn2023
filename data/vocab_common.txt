@@ -1,0 +1,1000 @@
+no
+yes
+2
+1
+white
+3
+red
+blue
+black
+0
+4
+green
+brown
+yellow
+5
+gray
+nothing
+left
+right
+6
+baseball
+frisbee
+orange
+wood
+dog
+cat
+pizza
+bathroom
+man
+none
+pink
+grass
+kitchen
+8
+7
+black and white
+food
+water
+skateboarding
+table
+woman
+skateboard
+silver
+kite
+soccer
+living room
+sunny
+10
+sitting
+wine
+horse
+apple
+tan
+cake
+9
+eating
+standing
+purple
+train
+bird
+stop
+hat
+bench
+floor
+walking
+couch
+flowers
+20
+playing
+chair
+cow
+tree
+winter
+female
+male
+bear
+girl
+trees
+bike
+12
+camera
+outside
+tv
+car
+red and white
+hot dog
+sandwich
+summer
+boy
+clear
+bed
+metal
+night
+cloudy
+30
+sidewalk
+no one
+sand
+bedroom
+sleeping
+15
+down
+wall
+sun
+cheese
+fork
+teddy bear
+11
+bat
+rug
+beer
+up
+people
+park
+helmet
+plant
+birthday
+plate
+football
+afternoon
+stripes
+glass
+on table
+blanket
+picture
+happy
+coffee
+round
+lot
+ground
+concrete
+many
+book
+ball
+blonde
+nowhere
+knife
+fall
+oak
+square
+day
+fruit
+mouse
+open
+sky
+plastic
+english
+usa
+16
+cold
+beige
+watermelon
+floral
+christmas
+glasses
+baby
+log
+fish
+closed
+13
+scissors
+breakfast
+rectangle
+old
+blue and white
+cooking
+paper
+chicken
+noon
+birds
+window
+remote
+jumping
+chocolate
+field
+apples
+spoon
+computer
+morning
+50
+plaid
+daytime
+carpet
+pie
+clouds
+sunset
+14
+evening
+100
+25
+stool
+american
+light
+bread
+sunglasses
+small
+short
+dinner
+running
+mountain
+inside
+squirrel
+gold
+scooter
+resting
+checkered
+bone
+pine
+books
+duck
+home
+unknown
+middle
+leaves
+asian
+tomato
+brown and white
+desk
+shirt
+drinking
+pepperoni
+fire
+on
+shadow
+house
+person
+very
+jeans
+sandbox
+pond
+fireplace
+salad
+18
+bicycle
+yarn
+rocks
+soccer ball
+forward
+cup
+solid
+steak
+glove
+reading
+dancing
+flower
+color
+child
+hand
+both
+long
+real
+cars
+clothes
+neither
+circle
+basket
+vase
+triangle
+talking
+hot dogs
+soup
+safety
+pillow
+spring
+deer
+hair
+flying
+gas
+rose
+young
+logs
+white and blue
+on plate
+playing frisbee
+40
+windows
+ducks
+striped
+background
+off
+laying down
+in air
+large
+on wall
+leather
+on ground
+smiling
+tabby
+pictures
+slide
+lunch
+shoes
+butterfly
+meat
+eagle
+dessert
+box
+door
+soda
+roses
+bottle
+front
+ponytail
+tea
+shelf
+air
+hot
+ribs
+sandals
+raccoon
+rabbit
+rock
+doll
+warm
+taking picture
+23
+mushrooms
+red and yellow
+toys
+watching tv
+turtle
+away
+outdoors
+lab
+white and black
+17
+top
+riding
+daisy
+curtains
+decoration
+red and blue
+24
+oval
+rope
+plain
+fishing
+waving
+good
+bikes
+swimming
+adult
+modern
+shade
+indoors
+pigtails
+owl
+painting
+dining room
+blue and yellow
+10 feet
+orange and white
+fries
+america
+dogs
+store
+ice cream
+coat rack
+blocks
+hamburger
+plants
+head
+robot
+wine glass
+toy
+playing baseball
+school
+go
+new
+ham
+red and black
+work
+hands
+picnic
+moon
+grill
+bush
+one on right
+beef
+yellow and blue
+jump rope
+bucket
+watching
+terrier
+wild
+batting
+controller
+slow
+bottom
+back
+honda
+sad
+game
+on desk
+stuffed animal
+2 feet
+working
+pants
+21
+marshmallows
+corn
+human
+on floor
+smile
+full
+wooden
+on couch
+pug
+above
+dusk
+mushroom
+on right
+on left
+reflection
+cotton
+28
+diamond
+parked
+green and yellow
+high
+moving
+dirty
+shovel
+cloud
+sandwiches
+eggs
+chairs
+looking
+cutting
+cats
+skateboards
+india
+east
+jump
+tall
+sweater
+on rug
+frog
+behind
+low
+storage
+cleaning
+cumulus
+face
+bees
+tongs
+35
+catching
+waiting
+mantle
+chihuahua
+pillows
+bicycles
+curtain
+marshmallow
+a
+desert
+on grass
+daisies
+dollhouse
+sliding
+in sky
+golden retriever
+family
+pasta
+3 feet
+yellow and white
+cloth
+pot
+dry
+on blanket
+nest
+tired
+c
+tea set
+laughing
+party
+forest
+corner
+mutt
+handle
+south
+lap
+fun
+baseball bat
+steel
+nighttime
+sony
+dark
+women
+half
+apartment
+200
+arm
+empty
+walk
+fast
+tray
+grilling
+italy
+eat
+hungry
+siamese
+butterflies
+drink
+children
+b
+wool
+cement
+balance
+tablecloth
+friends
+can
+pigeon
+red and green
+side
+black and red
+french
+yellow and red
+legos
+nobody
+relaxing
+sunlight
+white and brown
+cone
+under table
+60
+stick
+squares
+library
+bushes
+swinging
+teddy bears
+west
+blue and red
+bookshelf
+vertical
+little
+out
+indian
+video game
+plates
+70
+bottles
+mom
+shallow
+playing game
+don't know
+rural
+ottoman
+fell
+game controller
+stuffed animals
+coat
+hawk
+united states
+burger
+setting
+animals
+white and green
+s
+museum
+throwing
+chips
+cherry
+broken
+laying
+mexican
+t
+hill
+monkey
+under tree
+gone
+on sidewalk
+in background
+petting
+boys
+playing soccer
+friend
+ties
+legs
+towards
+tail
+wicker
+sleep
+first
+on shelf
+pointing
+horizontal
+e
+window sill
+sunrise
+bright
+eyes
+4 feet
+screen
+going
+no dog
+girls
+falling
+messy
+not very
+nintendo
+chandelier
+34
+man on right
+1 foot
+wheat
+outdoor
+it's not
+design
+spatula
+kickstand
+cups
+against wall
+adults
+feet
+seat
+chase
+under window
+begging
+behind tree
+happiness
+pigeons
+below
+5 feet
+television
+casual
+cook
+cupcake
+fighting
+brown and black
+on bench
+climbing
+hanging
+riding bike
+white and gray
+nuts
+leaving
+peach
+size
+coming
+dishes
+cookie
+ladder
+x
+medium
+fabric
+playing with dog
+wine bottle
+kids
+bob
+no idea
+love
+80
+caucasian
+lily pads
+burgers
+catch
+wine glasses
+75
+biking
+not here
+foot
+teddy
+soft
+sweet
+sofa
+holding it
+letters
+curly
+l
+labrador
+blue and black
+utensils
+bowtie
+stretching
+toast
+landscape
+fern
+throwing frisbee
+6 feet
+tape
+multicolored
+20 feet
+home plate
+teeth
+cd
+dog bed
+honey
+older
+couple
+drinks
+lots
+ride
+on man
+mouth
+skating
+sunflowers
+toward
+piano
+in pond
+moped
+abstract
+one on left
+shirts
+playing video game
+no cat
+land
+to left
+arriving
+news
+stand
+swing
+looking out window
+kitten
+dots
+stools
+bee
+spaghetti
+flat
+shadows
+man's
+in front
+arch
+by tree
+holding
+partly cloudy
+benches
+robin
+peanut butter
+spots
+pink and blue
+xbox
+gravy
+can't tell
+holding hands
+mice
+cat and dog
+d
+center
+red and gray
+movie
+writing
+lid
+race
+white and orange
+rocking horse
+scared
+in tree
+kneeling
+evergreen
+mother
+behind man
+on chair
+v
+play
+in
+dead
+victorian
+upside down
+mitt
+cream
+on stool
+fringe
+old man
+paintings
+65
+cds
+kicking
+lady
+soon
+siblings
+close
+awake
+herself
+left one
+h
+formal
+ivy
+sweat
+behind cloud
+on mantle
+petting dog
+man and woman
+asleep
+to eat
+coats
+top right
+for fun
+younger
+himself
+sideways
+1 year
+goose
+2 years
+1 hour
+men's
+windowsill
+on skateboard
+8 feet
+right side
+to right
+squatting
+yoga
+above fireplace
+flats
+each other
+holding baby
+cool
+scratching
+drawing
+shut
+in grass
+heels
+swinging bat
+surprise
+sniffing
+fly
+right one
+hide and seek
+dolls
+lasagna
+hiding
+y
+grandfather
+unsure
+dog and cat
+2 hours
+sticks
+bottom right
+flat screen
+cheddar
+painted
+leg
+dining
+notebook
+bottom left
+mother and child
+turtles
+grandma
+by door
+petting cat
+drinking wine
+behind bench
+now
+patterned
+playing video games
+life
+throwing ball
+rays
+babies
+throw
+feeding
+dad
+not long
+catch frisbee
+kid
+blankets
+left and right
+never
+eaten
+forks
+under
+nature
+bats
+curious
+coffee table
+bald
+balancing
+blue jay
+in basket
+by window
+comfort
+lighter
+i don't know
+trick
+high heels
+closet
+no 1
+yesterday
+shaking hands
+portrait
+frogs
+puppy
+lying down
+balls
+pear
+floating
+black and gray
+behind clouds
+alcohol
+nikon
+far right
+butt
+on log
+no table
+alone
+warmth
+little girl
+paw
+to catch ball
+banana split
+twins
+shape
+corgi
+dandelions
+10 minutes
+anniversary
+pomeranian
+decorations
+smaller
+married
+line
+digital
+3rd
+having fun
+behind bush
+joke
+lonely
+read
+crossed
+on girl
+bbq
+to sit on
+black and brown
+long sleeve
+males
+on rock
+alive
+drawer
+broke
+run
+bark
+rectangles
+cartoon
+fluffy
+animal
+today
+hamburgers
+exercising
+crescent
+charcoal
+by table
+mallard
+pet
+playstation
+bored
+male and female
+hello
+content
+schwinn
+branches
+stomach
+missing
+gaming
+easy
+no man
+father
+john
+plate of food
+in bed
+fido
+at table
+behind woman
+on window
+scooters
+behind boy
+july
+wide
+canary
+eagles
+digging
+in middle
+red and brown
+arms
+brass
+in park
+jumped
+watch tv
+20 years
+not at all
+healthy
+upright
+cushion
+pockets
+show
+meatballs
+silverware
+pull
+bunny
+hitting ball
+behind couch
+rabbits
+in front of couch
+kicking ball
+cross legged
+elderly
+under bench
+relaxed
