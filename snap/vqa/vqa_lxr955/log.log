@@ -15,14 +15,6 @@ Epoch 3: Train 84.51
 Epoch 3: Valid 69.99
 Epoch 3: Best 69.99
 
-Epoch 0: Train 0.00
-Epoch 0: Valid 0.00
-Epoch 0: Best 0.00
-
-Epoch 1: Train 0.00
-Epoch 1: Valid 0.00
-Epoch 1: Best 0.00
-
 Epoch 0: Train 72.68
 Epoch 0: Valid 71.49
 Epoch 0: Best 71.49
@@ -38,3 +30,35 @@ Epoch 2: Best 74.13
 Epoch 3: Train 88.07
 Epoch 3: Valid 74.42
 Epoch 3: Best 74.42
+
+Epoch 0: Train 77.06
+Epoch 0: Valid 76.13
+Epoch 0: Best 76.13
+
+Epoch 1: Train 82.83
+Epoch 1: Valid 77.07
+Epoch 1: Best 77.07
+
+Epoch 2: Train 87.97
+Epoch 2: Valid 78.07
+Epoch 2: Best 78.07
+
+Epoch 3: Train 91.48
+Epoch 3: Valid 78.47
+Epoch 3: Best 78.47
+
+Epoch 0: Train 75.77
+Epoch 0: Valid 74.97
+Epoch 0: Best 74.97
+
+Epoch 1: Train 81.59
+Epoch 1: Valid 76.17
+Epoch 1: Best 76.17
+
+Epoch 2: Train 86.82
+Epoch 2: Valid 77.07
+Epoch 2: Best 77.07
+
+Epoch 3: Train 90.46
+Epoch 3: Valid 77.50
+Epoch 3: Best 77.50
